@@ -1,15 +1,12 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Set-up-a-HelloMicroverse-project
- Set up a "Hello Microverse" project
 
+> In this project, you will set up a "Hello Microverse" repository. for the module 1 day 2.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
+- HTML AND CSS
 
 ## Author
 
@@ -29,12 +26,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
